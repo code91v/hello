@@ -1,7 +1,7 @@
 <?php 
 namespace App;
 
-class Hello
+class Hola
 {
     public static function hello($data)
     {
